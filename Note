@@ -1,0 +1,6 @@
+1- Simply add API project with .net5 version and did some setting on vs code. Will continue form Getting to know the API project files(4th).
+  a-CreateDefaultBuilder.
+  b-appsetting.json.
+  c-pipeline of middleware.
+
+2-
